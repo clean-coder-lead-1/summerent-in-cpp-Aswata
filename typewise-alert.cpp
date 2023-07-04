@@ -76,5 +76,5 @@ void sendToEmail(BreachType breachType) {
       break;*/
 printf("To: %s\n", recepient);   
 printf( "%s", breachTypeEmail[breachType]);
-  }
+  
 }
