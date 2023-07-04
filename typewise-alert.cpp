@@ -73,7 +73,7 @@ void sendToEmail(BreachType breachType) {
       break;
     case NORMAL:
       break;*/
-   
+printf("To: %s\n", recepient);   
 printf( breachTypeEmail[breachType]);
   }
 }
