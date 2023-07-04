@@ -75,6 +75,6 @@ void sendToEmail(BreachType breachType) {
     case NORMAL:
       break;*/
 printf("To: %s\n", recepient);   
-printf( breachTypeEmail[breachType]);
+printf( "%s", breachTypeEmail[breachType]);
   }
 }
